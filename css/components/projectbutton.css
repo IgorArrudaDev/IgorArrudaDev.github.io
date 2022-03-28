@@ -1,0 +1,28 @@
+
+.project-tec {
+    display: flex;
+    background-color: #000000;
+    margin-left: 50px;
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+.projectbox {
+    background-color: #030504;
+    width: 280px;
+    height: 280px;
+    margin: 156px;
+}
+
+.projectbox .logo-fired {
+    padding: 20px 30px;
+    background-color: #30F1AC;
+}
+
+.projectbox .logo-collab {
+    padding: 63px 65px;
+    background-color: #1625ff;
+}
+.projectbox .logo-avatar {
+    background-color: #000000;
+}

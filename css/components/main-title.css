@@ -1,0 +1,21 @@
+.main-title {
+    color: #E3E52E;
+    font-family: "Press Start 2P", sans-serif;
+    font-size: 40px;
+    text-shadow: 4px 4px 0px #000;
+}
+
+.main-title.-second {
+    color: #fff;
+    text-align: center;
+    text-shadow: none;
+
+}
+
+h3 {
+    margin-bottom: 10px;
+}
+
+.main-title.-contatos {
+    text-align: center;
+}
