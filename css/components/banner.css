@@ -1,0 +1,26 @@
+.banner {
+    background-image: url("../../img/minhafoto1.png");
+    background-repeat: no-repeat;
+    height: 799px;
+    background-size: 100%;
+    border-bottom: 10px solid #000;
+    padding-top: 115px;
+    padding-left: 90px;
+
+}
+
+.banner .wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 660px;
+}
+
+.banner #box {
+    margin-bottom: 38px;
+}
+
+.banner .navigation {
+    display: flex;
+    justify-content: space-around;
+
+}
